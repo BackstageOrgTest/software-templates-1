@@ -6,7 +6,7 @@ metadata:
   description: Create Empty Project
 
 spec:
-  owner: info@roadie.io
+  owner: group:web-development-team
   type: service
   parameters:
     - title: Provide some simple information
@@ -28,12 +28,12 @@ spec:
           description: Owner of the component
           ui:field: OwnerPicker
           ui:options:
-            allowedKinds: 
+            allowedKinds:
               - Group
     - title: Choose a location
       required:
         - repoUrl
-      properties: 
+      properties:
         repoUrl:
           title: Repository Location
           type: string
