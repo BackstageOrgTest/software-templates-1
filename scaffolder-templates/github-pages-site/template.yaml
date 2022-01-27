@@ -6,7 +6,7 @@ metadata:
   description: Create a static HTML website and publish it via GitHub pages.
 
 spec:
-  owner: user:dtuite
+  owner: user:bmalouf-deloitte
   type: website
   parameters:
     - title: Provide some simple information
@@ -25,7 +25,7 @@ spec:
     - title: Choose a Source Control Management tool to store your new website in.
       required:
         - repoUrl
-      properties: 
+      properties:
         repoUrl:
           title: Repository Location
           type: string
