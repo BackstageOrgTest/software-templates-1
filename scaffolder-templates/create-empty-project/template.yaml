@@ -5,8 +5,7 @@ metadata:
   title: Create Empty Project
   description: Create Empty Project
   tags:  
-    - Unstable 
-    - UnderConstruction
+    - Unstable     
 spec:
   owner: group:web-development-team
   type: service
