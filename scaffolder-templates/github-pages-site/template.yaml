@@ -4,7 +4,9 @@ metadata:
   name: github-pages-site
   title: GitHub Pages Website
   description: Create a static HTML website and publish it via GitHub pages.
-
+  tags:  
+    - Unstable 
+    - UnderConstruction
 spec:
   owner: user:bmalouf-deloitte
   type: website
