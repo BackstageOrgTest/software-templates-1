@@ -4,9 +4,10 @@ metadata:
   name: create-aws-serverless-frontend-and-backend
   title: Create AWS Serverless Frontend and Backend
   description: Create AWS Serverless Frontend and Backend
-  tags:
+  tags:  
+    - Unstable 
+    - UnderConstruction
     - aws
-
 spec:
   owner: user:Dricmartinez
   type: service
