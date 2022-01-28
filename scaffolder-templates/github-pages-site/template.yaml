@@ -6,7 +6,7 @@ metadata:
   description: Create a static HTML website and publish it via GitHub pages.
   tags:  
     - Unstable 
-    - UnderConstruction
+    - UnderConstruction 
 spec:
   owner: user:bmalouf-deloitte
   type: website
