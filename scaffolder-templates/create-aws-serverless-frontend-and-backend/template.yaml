@@ -6,6 +6,7 @@ metadata:
   description: Create AWS Serverless Frontend and Backend
   tags:      
     - aws
+    - unstable
 spec:
   owner: user:Dricmartinez
   type: service
